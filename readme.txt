@@ -1,38 +1,36 @@
-=== ListingHive ===
-Contributors: hivepress
-Requires at least: 5.0
-Tested up to: 6.2
-Requires PHP: 7.0
-Stable tag: 1.2.7
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Telephasic by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-A multipurpose WordPress theme that allows you to build any type of directory and listing websites.
 
-== Description ==
+This is Telephasic, a brand new site template for HTML5 UP. It features a sharp, modern
+design inspired by omfg everything, and makes good use of SVGs to ensure stuff looks
+nice and crispy on retina displays.
 
-ListingHive is a clean and modern multipurpose WordPress theme. Paired with the free [HivePress](https://wordpress.org/plugins/hivepress/) plugin, it allows you to build any type of directory and listing websites.
+Demo images* are courtesy of Felicia Simion, an amazing photographer with an
+incredible portfolio over at deviantART:
 
-[Demo](https://listinghive.hivepress.io/) | [Documentation](https://help.hivepress.io/category/21-listinghive) | [Support](https://community.hivepress.io/?utm_medium=referral&utm_source=wordpress.org)
+http://ineedchemicalx.deviantart.com/
 
-ListingHive WordPress Theme, Copyright 2019 HivePress
-ListingHive is distributed under the terms of the GNU GPL
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Felicia's work without her explicit permission!)
 
-== Changelog ==
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-[View changelog on GitHub.](https://github.com/hivepress/listinghive/releases)
+AJ
+aj@lkn.io | @ajlkn
 
-== Resources ==
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-* TGM Plugin Activation PHP library by Thomas Griffin, Gary Jones, Juliette Reinders Folmer (GNU General Public License) https://github.com/TGMPA/TGM-Plugin-Activation
-* Font Awesome icon font by FontAwesome (SIL OFL 1.1 License) https://github.com/FortAwesome/Font-Awesome
-* Font Awesome CSS by FontAwesome (MIT License) https://github.com/FortAwesome/Font-Awesome
-* Flexboxgrid CSS by Kristofer Joseph (Apache License) https://github.com/kristoferjoseph/flexboxgrid
-* Minireset CSS by Jeremy Thomas (MIT License) https://github.com/jgthms/minireset.css/
-* Focus Visible JS library by WICG (W3C License) https://github.com/WICG/focus-visible
-* FitVids jQuery plugin by Chris Coyier, Dave Rupert (WTFPL License) https://github.com/davatron5000/FitVids.js/
-* Screenshot image by Burst (CC0 License) https://stocksnap.io/photo/OE0F9BHXJQ
-* Screenshot image by Ostap Senyuk (CC0 License) https://stocksnap.io/photo/4DG8Y9WAPU
-* Screenshot image by Designecologist (CC0 License) https://stocksnap.io/photo/11VBKSE76A
-* Screenshot image by Tarren Bailey (CC0 License) https://stocksnap.io/photo/3DGVP8U32G
-* Placeholder images by HivePress (CC0 License)
+
+Credits:
+
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
